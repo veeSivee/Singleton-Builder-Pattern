@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Single Builder Pattern</string>
+    <string name="single_txt">Singleton</string>
+    <string name="non_single_txt">Non Singleton</string>
+</resources>

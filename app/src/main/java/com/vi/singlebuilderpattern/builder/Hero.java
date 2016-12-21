@@ -26,6 +26,17 @@ public class Hero {
                 .append(" named ")
                 .append(name);
 
+        if (hairColor != null || hairType != null) {
+            sb.append(" with ");
+            if (hairColor != null) {
+                sb.append(hairColor).append(' ');
+            }
+            if (hairType != null) {
+                sb.append(hairType).append(' ');
+            }
+            sb.append(hairType != HairType.BALD ? "hair" : "head");
+        }
+
         return sb.toString();
     }
 

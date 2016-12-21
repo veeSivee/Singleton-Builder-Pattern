@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc2/51033a5b8fcf7039159e35b6878f106ccd5fb35f/auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/auto-service-1.0-rc2_dd6d81d5df92f6c92c120679f18b0b4c48a90a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_676641a355e7301d3f9d547b0c9d506c0e96aae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_c7b4dae74c8a26c67394f25d8307d7212f123d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_64b54e17a67138b232ba6d9329be7fce53f4faec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d96878d220e0abaf255c0ea617dbe2b3025e74c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_61bcfdfba49949750fef7fa965edddeb27fd167d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_78ef8395209a2f30a925580016cb4869b81e77ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-compiler/8.4.0/22f40cd3f01849c6deeab0a755d2082b2624581/butterknife-compiler-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="022f40cd3f01849c6deeab0a755d2082b2624581">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/butterknife-compiler-8.4.0_d6cacb992fd46b6036a4a3e3ef5cae4af116870a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_24e0b31f7e991bdf45f54ad84f8cd20d2db765ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fc654c241bfdfaaa879a26503538a206b90acab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4edcd89125214f91c973db7c391e0db602f30f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_1fb1dbaa0f61634193036b9eb517127917005425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_02a00e036ee7eb0d577a94866c8c6ca7ea63f46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9bece60d0d0257b69aa080b5f6406a6aed416e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c7c2f3768f5e8635f437262c51fd3f5c031ae87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6519f3b7b830246a03dec330c68c7f7739b57e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.6/cf7212b0f8bfef12657b942df8f4f2cf032d3f41/auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/auto-common-0.6_314577f3d42265db1187fba4bbd3fc8fa73ff302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.7.0/4fdcf1fc27c1a8f55d1109df986c923152f07759/javapoet-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fdcf1fc27c1a8f55d1109df986c923152f07759">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/javapoet-1.7.0_c1d22a477e328b3a76ed4bee40c5a6d830c01da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_062462fde227380598ea20a039a0e4b3a9c653b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9027fed31c8376fda095c72c4a9b4a97c943f248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taufiqotulfaidah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/taufiqotulfaidah/Documents/LearningApp/Singleton-Builder-Pattern/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_fe4b623bad254c37cb0b05282e4647d173fb7b4c.jar" />
+    </item>
+
+</items>

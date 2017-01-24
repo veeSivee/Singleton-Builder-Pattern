@@ -33,7 +33,7 @@ public class SingletonActivity extends AppCompatActivity implements SingleContra
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_singleton);
 
-        setTitle("Singleton Pattern");
+        setTitle(getString(R.string.title_singleton));
 
         initPresenter();
 
